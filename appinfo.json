@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "schap18@bfh.ch",
-    "longName": "WeatherForecast",
+    "longName": "CLAPSTest",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -32,8 +32,12 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "WeatherForecast",
-    "uuid": "4ac543a4-f57b-415d-8e2c-405118936b11",
+    "shortName": "CLAPSTest",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "2ce079ec-7a7c-4e10-91d6-f36547b2a95c",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
